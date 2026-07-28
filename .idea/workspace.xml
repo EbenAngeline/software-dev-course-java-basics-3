@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5255b3c-d517-44b9-92ad-783cf1cec81d" name="Changes" comment="Addimg images" />
+    <list default="true" id="a5255b3c-d517-44b9-92ad-783cf1cec81d" name="Changes" comment="Addimg images">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConditionalExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ConditionalExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LoopExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LoopExercises.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +23,77 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "EbenAngeline"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EbenAngeline/software-dev-course-java-basics-3.git",
+    "accountId": "261d7bcd-f162-4821-a215-4c719833130e"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000018951725" />
+      <entry key="S10" value="1.0000475453441195" />
+      <entry key="S30" value="1.0830367954058662" />
+      <entry key="S60" value="1.9677451831659165" />
+      <entry key="M2" value="5.464378974853655" />
+      <entry key="M5" value="14.962997742698457" />
+      <entry key="M10" value="23.19983525920085" />
+      <entry key="M15" value="27.306533129354683" />
+      <entry key="M30" value="32.45858111008469" />
+      <entry key="H1" value="35.529510054724575" />
+      <entry key="H2" value="37.211062251170084" />
+      <entry key="H4" value="38.091605165137246" />
+      <entry key="D1" value="38.84662232141764" />
+      <entry key="W1" value="38.97803985847634" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.6007979432028504E-98" />
+      <entry key="S2" value="4.1323255425265864E-25" />
+      <entry key="S5" value="2.168003879561928E-10" />
+      <entry key="S10" value="2.0024631593126384E-5" />
+      <entry key="S30" value="0.04918987408988868" />
+      <entry key="S60" value="0.3827597899053449" />
+      <entry key="M2" value="1.1993740814008251" />
+      <entry key="M5" value="3.255681510695206" />
+      <entry key="M10" value="5.368424992441505" />
+      <entry key="M15" value="6.514602667588639" />
+      <entry key="M30" value="8.01619977980209" />
+      <entry key="H1" value="8.938233095466146" />
+      <entry key="H2" value="9.450277731308777" />
+      <entry key="H4" value="9.72024546985856" />
+      <entry key="D1" value="9.952678413119221" />
+      <entry key="W1" value="9.993222517177225" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="7.672200772227954E-5" />
+      <entry key="MS500" value="0.1503086561122722" />
+      <entry key="S2" value="0.6226528753434794" />
+      <entry key="S5" value="0.8273673904293914" />
+      <entry key="S10" value="0.9096482536587059" />
+      <entry key="S30" value="1.0921207187786577" />
+      <entry key="S60" value="2.296812020259851" />
+      <entry key="M2" value="6.587229531345299" />
+      <entry key="M5" value="18.138849814308543" />
+      <entry key="M10" value="28.5061814004682" />
+      <entry key="M15" value="33.77215505676903" />
+      <entry key="M30" value="40.4454389052596" />
+      <entry key="H1" value="44.45160648387305" />
+      <entry key="H2" value="46.652867623310954" />
+      <entry key="H4" value="47.80750831089933" />
+      <entry key="D1" value="48.798561813447805" />
+      <entry key="W1" value="48.971156437115134" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -35,18 +110,30 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "JUnit.ConditionalExercisesTests.executor": "Run",
+    "JUnit.ConditionalExercisesTests.testIsValidPassword.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/mikel/projects/java-new-curriculum/software-dev-course-classes-and-objects-2/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ConditionalExercisesTests">
     <configuration name="ConditionalExercisesTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-java-basics-3" />
       <option name="PACKAGE_NAME" value="" />
@@ -56,11 +143,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConditionalExercisesTests.testIsValidPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-java-basics-3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConditionalExercisesTests" />
+      <option name="METHOD_NAME" value="testIsValidPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ConditionalExercisesTests" />
+        <item itemvalue="JUnit.ConditionalExercisesTests.testIsValidPassword" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -89,6 +195,9 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed Initial Draft" />
